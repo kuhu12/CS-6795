@@ -1,0 +1,2227 @@
+[
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.751,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.184,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.678,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.168,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 10.916,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.104,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.933,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 2.385,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.635,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.197,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.464,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.138,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.282,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.671,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.228,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.783,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.02,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.137,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.332,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.45,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.483,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 3.249,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.234,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 2.264,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.12,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.555,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.084,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 1.184,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 2.067,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.851,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.934,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 6.97,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 1.384,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 3.769,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 22.895,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.316,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 2.133,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.16,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 3.337,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.136,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.9,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.118,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.797,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.168,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.067,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.166,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.177,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.129,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.617,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.718,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 2.184,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.281,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.164,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.129,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.35,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.774,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.267,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 4.847,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.1,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.164,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.145,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.18,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.217,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.16,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 2.984,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.185,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.634,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.6,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.947,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.931,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 2.108,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 1.571,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.978,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.762,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.143,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.129,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.151,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 5.664,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.111,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.567,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.364,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.313,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.146,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.527,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.167,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.028,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 3.118,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.162,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.449,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.317,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 3.535,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.12,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.667,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.1,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.499,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.949,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.433,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.367,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 3.451,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.484,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.993,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.833,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.159,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.915,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.143,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.548,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.133,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.684,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.121,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.616,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.114,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.65,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.161,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.9,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.217,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.152,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.144,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.384,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.2,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.104,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.035,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.113,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.183,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.538,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.13,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.733,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.114,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.649,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.1,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.217,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.783,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.612,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.736,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.143,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.767,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.833,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.15,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.833,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.258,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.103,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.082,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.129,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.716,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.631,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.144,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.514,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.121,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.784,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.149,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.446,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.179,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.121,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.63,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.766,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.106,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.529,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.484,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.187,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.366,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.561,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.121,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.483,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.161,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.29,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.154,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.817,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.138,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 1.35,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 5.003,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.849,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.283,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.548,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.145,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.903,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.15,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.899,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.918,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.368,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.179,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.484,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.136,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.816,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.308,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.421,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.633,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.13,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.883,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.716,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.111,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.382,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.268,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.12,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.479,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 11.277,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.77,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.178,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.989,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.88,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.215,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.772,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.152,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.084,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.15,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.208,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.75,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.195,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.334,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.104,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.232,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.101,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.022,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.151,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.75,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 1.049,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 4.152,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.15,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.186,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.867,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.151,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 3.469,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.117,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.151,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.9,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 3.634,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.143,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.485,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.12,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.492,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.111,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.726,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.128,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.168,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 1.877,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.61,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.347,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.133,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.167,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.273,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.12,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.616,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.122,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.56,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.266,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.119,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.439,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.283,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.767,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.104,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.537,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.112,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.583,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.801,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 1.734,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.851,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.196,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.136,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.617,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.105,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.684,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.144,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.119,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.783,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.129,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.55,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.928,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.867,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.104,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.549,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.13,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.466,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.416,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.138,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.501,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.12,
+        "Event": "drag",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 1.035,
+        "Event": "hover",
+        "Quadrant": "D"
+    },
+    {
+        "Duration": 0.149,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 2.743,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.367,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.636,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.103,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.518,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.104,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 1.216,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.144,
+        "Event": "drag",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.9,
+        "Event": "hover",
+        "Quadrant": "B"
+    },
+    {
+        "Duration": 0.127,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.85,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.251,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.343,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.111,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.429,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.103,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.766,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.135,
+        "Event": "drag",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 1.201,
+        "Event": "hover",
+        "Quadrant": "C"
+    },
+    {
+        "Duration": 0.166,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.137,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 1.284,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.746,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.578,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.121,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.5,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.551,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.103,
+        "Event": "drag",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.699,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.964,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.116,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.292,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.733,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.151,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.746,
+        "Event": "hover",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0,
+        "Event": "click",
+        "Quadrant": "A"
+    },
+    {
+        "Duration": 0.65,
+        "Event": "hover",
+        "Quadrant": "A"
+    }
+]
